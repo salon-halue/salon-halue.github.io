@@ -1,0 +1,35 @@
+{
+  "name": "吉祥寺 はるへ",
+  "nameSub": "since 2018 · Kichijoji, Tokyo",
+  "contact": {
+    "address": "〒180-0004 東京都武蔵野市吉祥寺本町2-2-10",
+    "phone": "0422-27-5571",
+    "businessHours": [
+      "平日：10:00〜20:00",
+      "土日祝：09:00〜19:00"
+    ],
+    "holiday": "年中無休（臨時休業あり）",
+    "googleMapUrl": "https://maps.app.goo.gl/Zp985fhEFNWn7iWJ8",
+    "mapNote": "吉祥寺駅より徒歩3分"
+  },
+  "hero": {
+    "subtitle": "吉祥寺 はるへ",
+    "tagline": "吉祥寺エリア人気上位サロン☆口コミ4.9以上☆完全マンツーマン",
+    "backgroundImage": "https://imgbp.hotp.jp/CSP/IMG_SRC/70/57/B126357057/B126357057.jpg?impolicy=HPB_policy_default&w=1920&h=1080",
+    "reserveBtnText": "ご予約はこちら",
+    "menuBtnText": "メニューを見る"
+  },
+  "navigation": [
+    {"name":"コンセプト","url":"#concept"},
+    {"name":"サービス","url":"#services"},
+    {"name":"メニュー","url":"#menu"},
+    {"name":"スタッフ","url":"#staff"},
+    {"name":"ギャラリー","url":"#gallery"},
+    {"name":"アクセス","url":"#access"},
+    {"name":"ご予約・お問い合わせ","url":"#contact","isButton":true}
+  ],
+  "footer": {
+    "description": "吉祥寺エリア人気上位サロン☆口コミ4.9以上。実力派スタイリストが完全マンツーマンで、あなたの理想を形にします。",
+    "copyright": "© 2018 吉祥寺 はるへ. All Rights Reserved."
+  }
+}
